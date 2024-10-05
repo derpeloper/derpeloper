@@ -40,7 +40,7 @@
 
 ###
 
-<p align="left">anyways, im nothonxhina, a discord bot developer who just does this for fun. i dont seek any profits, just only for funsies (and all commands will and may be all for fun or random). i got friends with me whilst i work on this "project" even though i dont expect this to blow up. im probably going to make other projects, but private investigator will be the primary project i will be working on</p>
+<p align="left">anyways, im nothonxhina, a discord bot developer who just does this for fun. i dont seek any profits, just only for funsies (and all commands will and may be all for fun or random). i got friends with me whilst i work on the "private investigator project", or if you even call it a prroject. Even though i dont expect this to blow up. im probably going to make other projects, but private investigator will be the primary project i will be working on</p>
 
 ###
 
