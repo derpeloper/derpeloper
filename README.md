@@ -48,6 +48,6 @@
 
 ###
 
-<p align="left">the repo that contains the code update every .5 update, meaning it will only update on 1.5, 2.5, etc. and the repo may contain missing information, i made sure to remove all sensitive, and confidential files and/or code to prevent abuse from the apis i use<br><br>by the way to make this clear, please do not make issues requesting a command, theres a /idea for a reason <3</p>
+<p align="left">the repo that contains the code update every .5 update, meaning it will only update on 1.5, 2.5, etc. and the repo may contain missing information, i made sure to remove all sensitive, and confidential files and/or code to prevent abuse from the apis i use<br><br>by the way to make this clear, please do not make issues requesting a command, theres a /idea for a reason <3 (I just want to make it clear that I am updating the source files here pretty soon, just obfuscating all classified info in all of the files so just be patient, thank you <3)</p>
 
 ###
