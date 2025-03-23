@@ -9,7 +9,7 @@ ive been working on discord bots since early 2024, over a year now. i have made 
 
 ------------
 
-one of the primary projects ive been spending time on is **Plana**, a discord bot for the server [gg.kivoto](discord.gg/kivoto). **Plana**'s code will not be public, nor will have any functionality outside of the server.
+one of the primary projects ive been spending time on is **Plana**, a discord bot for the server [gg.kivoto](https://discord.gg/kivoto). **Plana**'s code will not be public, nor will have any functionality outside of the server.
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=derpeloper&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=discord_old_blurple&hide_border=false" height="150" alt="languages graph"  />
