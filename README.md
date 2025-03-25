@@ -4,7 +4,7 @@ ive been working on discord bots since early 2024, over a year now. i have made 
 
 > [GV] means that I've given up support for this bot for now due to other projects I'm working on.
 
-- **Clyde -** This is a recreation of Discord's old chatbot, Clyde. [GV]
+- **Clyde -** This is a recreation of Discord's old chatbot, Clyde. 
 - **private investigator -** This is a miscellanious bot, purely for the purpose of entertainment, or functionality. [GV]
 
 ------------
